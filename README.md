@@ -1,1 +1,0 @@
-# shopi.github.io
