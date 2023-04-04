@@ -20,10 +20,9 @@
 
       <div class="box">
          <h3>contact us</h3>
-         <a href="tel:1234567899"><i class="fas fa-phone"></i> +123 456 7899</a>
-         <a href="tel:11122233333"><i class="fas fa-phone"></i> +111 222 3333</a>
-         <a href="mailto:shaikh@gmail.com"><i class="fas fa-envelope"></i> mo.said@gmail.com</a>
-         <a href="https://www.google.com/myplace"><i class="fas fa-map-marker-alt"></i> egypt, tanta - 000000 </a>
+         <a href="tel:1234567899"><i class="fas fa-phone"></i> +201204593124</a>
+         <a href="mailto:shaikh@gmail.com"><i class="fas fa-envelope"></i> khaledahmedhaggagy@gmail.com</a>
+         <a href="https://www.google.com/myplace"><i class="fas fa-map-marker-alt"></i> egypt, qina - 000000 </a>
       </div>
 
       <div class="box">
@@ -36,6 +35,6 @@
 
    </section>
 
-   <div class="credit">&copy; copyright @ <?= date('Y'); ?> by <span>طلاب المعهد العالي للادارة والتكنولوجيا بكفر الشيخ</span> | all rights reserved!</div>
+   <div class="credit">&copy; copyright @ <?= date('Y'); ?> by <span>Eng/ Khaled Ahmed</span> | all rights reserved!</div>
 
 </footer>
