@@ -37,15 +37,13 @@ if(isset($_SESSION['user_id'])){
 
    <div class="row">
 
-      <div class="image">
-         <img src="images/about-img.svg" alt="">
-      </div>
+      
 
       <div class="content">
       <br>
       <h3>who are we?</h3>
       <br>
-      <h2>طلاب المعهد العالي للادارة والتكنولوجيا بكفر الشيخ</h2>
+      <h2>Eng\ khaled ahmed</h2>
       <br>
 <img src="images\unnamed.jpg" style="width: 4cm; height: 4cm;">
 
